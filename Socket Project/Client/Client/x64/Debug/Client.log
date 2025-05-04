@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Skynet\OneDrive\Documents\Socket Project\Client\Client\main.cpp(35,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\Skynet\OneDrive\Documents\Socket Project\Client\x64\Debug\Client.exe
